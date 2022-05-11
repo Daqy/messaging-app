@@ -2,5 +2,3 @@
 Hi, I will be creating a secure messaging app for my university project. This app will make sure that I the creator of the app will not be able to read other peoples messages (have end-to-end encryption), further the user will have to authenticate themselves when logging into the app, to make sure its them.
 
 Please read the readme files in both server and client directory.
-
-!IMPORTANT both the server and client need to be running for it to work, call the appropriate scripts to run them.

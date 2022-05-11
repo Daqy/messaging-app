@@ -4,7 +4,7 @@ bin-release/
 [Oo]bj/
 [Bb]in/
 /server/node_modules
-/server/.env
+/server//.env
 
 # dependencies
 /client/node_modules
